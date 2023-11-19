@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sagar Samal</title>
+    <link>https://sagarsamal.com/</link>
+    <description>Recent content on Sagar Samal</description>
+    <image>
+      <title>Sagar Samal</title>
+      <url>https://sagarsamal.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://sagarsamal.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://sagarsamal.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://sagarsamal.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sagarsamal.com/about/</guid>
+      <description>name: Sagar Samal located_in: Kathmandu, Nepal current_job: Senior Software Developer education: [ &amp;#34;Passionate Software Developer&amp;#34;, &amp;#34;Bachelor&amp;#39;s in Software Engineering&amp;#34;, ] company: Ayaansh Technologies fields_of_interests: [ &amp;#34;Web Development&amp;#34;, &amp;#34;Data Science&amp;#34;, &amp;#34;Machine Learning&amp;#34;, &amp;#34;UI/UX&amp;#34;, &amp;#34;DevOps&amp;#34;, &amp;#34;Domain-driven Design&amp;#34;, &amp;#34;Microservice Architecture&amp;#34;, ] languages_and_frameworks: [ &amp;#34;Javascript&amp;#34;, &amp;#34;Python&amp;#34;, &amp;#34;Typescript&amp;#34;, &amp;#34;React&amp;#34;, &amp;#34;Redux&amp;#34;, &amp;#34;Vue&amp;#34;, &amp;#34;Nuxt&amp;#34;, &amp;#34;Django&amp;#34;, &amp;#34;DRF&amp;#34;, &amp;#34;Express&amp;#34;, &amp;#34;Html5&amp;#34; &amp;#34;CSS3&amp;#34;, ] databases: [ &amp;#34;PostgreSQL&amp;#34;, &amp;#34;MySQL&amp;#34;, &amp;#34;SQLite&amp;#34;, &amp;#34;Mongodb&amp;#34;, &amp;#34;Redis&amp;#34;, ] tools_and_services: [ &amp;#34;Docker&amp;#34;, &amp;#34;Nginx&amp;#34;, &amp;#34;Git&amp;#34;, &amp;#34;Github&amp;#34;, ] hobbies: [&amp;#34;Gaming&amp;#34;, &amp;#34;Movies&amp;#34;, &amp;#34;Music&amp;#34;, &amp;#34;Art&amp;#34;, &amp;#34;Comedy&amp;#34;] </description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://sagarsamal.com/blogs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sagarsamal.com/blogs/</guid>
+      <description>coming soon</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://sagarsamal.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sagarsamal.com/contact/</guid>
+      <description>Reach out to me at saagrsaaml@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://sagarsamal.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sagarsamal.com/projects/</guid>
+      <description>coming soon</description>
+    </item>
+    
+    
+  </channel>
+</rss>
